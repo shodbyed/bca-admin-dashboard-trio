@@ -1,4 +1,32 @@
-# React + TypeScript + Vite
+# BCA Admin Dashboard & Supabase Learning Hub
+
+This repository contains two main projects:
+
+## 1. BCA Admin Dashboard (Main Project)
+A React + TypeScript admin dashboard for managing BCA (Billiard Congress of America) leagues, featuring:
+- Season management
+- Team and player administration
+- Schedule management
+- Firebase integration
+- Real-time data updates
+
+**Tech Stack:** React, TypeScript, Vite, Firebase, React Query
+
+## 2. Supabase Learning Hub
+A dedicated learning environment for exploring Supabase features and building practice projects.
+
+**Location:** `/supabase-learning-hub/`
+
+### Quick Start for Supabase Learning
+```bash
+cd supabase-learning-hub
+npm install
+# Follow the setup guide in supabase-learning-hub/README.md
+```
+
+---
+
+## BCA Dashboard - Original README
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 

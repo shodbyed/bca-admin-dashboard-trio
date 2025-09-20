@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-var-requires */
 /// these scripts dont really work in ts you have scripts in firebaseScripts folder here.   open a separate window
 
 const admin = require('firebase-admin');
