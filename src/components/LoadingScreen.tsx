@@ -23,7 +23,7 @@ export const LoadingScreen: React.FC<LoadingScreenProps> = ({ message }) => {
     }, 500);
 
     return () => clearInterval(interval); // Clean up
-  }, []);
+  }, [message]);
 
   const spinKeyframes = `@keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }`;
 

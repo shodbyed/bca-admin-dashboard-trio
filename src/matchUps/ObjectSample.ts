@@ -1,4 +1,4 @@
-const object = {
+export const sampleObject = {
   'Week 1': [
     [1, 2],
     [3, 4],
